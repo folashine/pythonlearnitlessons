@@ -1,0 +1,6 @@
+print("Hello, I'm coding in VS Code!")
+print("I'm learning python!")
+print("it is so much fun!")
+print("I can't wait to learn more!")
+print("first line\nSecond line")
+print("This\tis\ttabbed")
